@@ -1,0 +1,20 @@
+loan_status,loan_amnt,int_rate,grade,emp_length,home_ownership,annual_inc,term
+Current,2500,13.56,C,10+ years,RENT,55000, 36 months
+Current,30000,18.94,D,10+ years,MORTGAGE,90000, 60 months
+Current,5000,17.97,D,6 years,MORTGAGE,59280, 36 months
+Current,4000,18.94,D,10+ years,MORTGAGE,92000, 36 months
+Current,30000,16.14,C,10+ years,MORTGAGE,57250, 60 months
+Current,5550,15.02,C,10+ years,MORTGAGE,152500, 36 months
+Current,2000,17.97,D,4 years,RENT,51000, 36 months
+Current,6000,13.56,C,10+ years,RENT,65000, 36 months
+Current,5000,17.97,D,10+ years,MORTGAGE,53580, 36 months
+Current,6000,14.47,C,< 1 year,OWN,300000, 36 months
+Current,5500,22.35,D,< 1 year,MORTGAGE,50000, 36 months
+Current,28000,11.31,B,2 years,MORTGAGE,70000, 60 months
+Current,11200,8.19,A,10+ years,MORTGAGE,65000, 36 months
+Current,6500,17.97,D,4 years,MORTGAGE,154000, 36 months
+Current,22000,12.98,B,10+ years,MORTGAGE,65000, 60 months
+Current,3500,16.14,C,10+ years,MORTGAGE,80000, 36 months
+Current,7000,12.98,B,4 years,MORTGAGE,102500, 36 months
+Current,25000,16.91,C,10+ years,MORTGAGE,23878, 60 months
+Current,16000,20.89,D,4 years,MORTGAGE,120000, 60 months
